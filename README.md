@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abhishekyadav-708
-- 👀 I’m interested in Web Development and Ethical Hacking.
-- 🌱 I’m currently pursuing Btech in CSE
+- 👋 Hi, I’m @abhishekyadav708
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently pursuing a Bachelor of Technology in Computer Science.
 
 
 <!---
